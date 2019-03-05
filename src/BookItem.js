@@ -44,7 +44,7 @@ class BookItem extends Component {
   }
 
   render() {
-      const { id, name, price, author, desc } = this.props;
+      const { name, price, author, desc } = this.props;
     return (
         <div>
           {
