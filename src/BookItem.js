@@ -11,7 +11,6 @@ class BookItem extends Component {
     this.onDelete = this.onDelete.bind(this);
     this.onEdit = this.onEdit.bind(this);
     this.onEditSave = this.onEditSave.bind(this);
-
   }
 
   /**
